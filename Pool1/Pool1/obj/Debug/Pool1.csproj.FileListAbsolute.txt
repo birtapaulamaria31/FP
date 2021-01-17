@@ -1,0 +1,6 @@
+D:\Facultate\Fundamentele programarii\Pools\Pool_1\Pool1\Pool1\bin\Debug\Pool1.exe.config
+D:\Facultate\Fundamentele programarii\Pools\Pool_1\Pool1\Pool1\bin\Debug\Pool1.exe
+D:\Facultate\Fundamentele programarii\Pools\Pool_1\Pool1\Pool1\bin\Debug\Pool1.pdb
+D:\Facultate\Fundamentele programarii\Pools\Pool_1\Pool1\Pool1\obj\Debug\Pool1.csprojAssemblyReference.cache
+D:\Facultate\Fundamentele programarii\Pools\Pool_1\Pool1\Pool1\obj\Debug\Pool1.exe
+D:\Facultate\Fundamentele programarii\Pools\Pool_1\Pool1\Pool1\obj\Debug\Pool1.pdb
