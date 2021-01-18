@@ -1,5 +1,0 @@
-D:\Facultate\Fundamentele programarii\Pools\Pool_1\Pool1\Elevi\bin\Debug\Elevi.exe.config
-D:\Facultate\Fundamentele programarii\Pools\Pool_1\Pool1\Elevi\bin\Debug\Elevi.exe
-D:\Facultate\Fundamentele programarii\Pools\Pool_1\Pool1\Elevi\bin\Debug\Elevi.pdb
-D:\Facultate\Fundamentele programarii\Pools\Pool_1\Pool1\Elevi\obj\Debug\Elevi.exe
-D:\Facultate\Fundamentele programarii\Pools\Pool_1\Pool1\Elevi\obj\Debug\Elevi.pdb
