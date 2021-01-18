@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace Pool2
 {
-    class Program
+    class Problema1
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
