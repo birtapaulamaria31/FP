@@ -50,51 +50,51 @@ namespace Pool2
             }
             if (nrProblema == 3)
             {
-        //        Problema3.Rezolvare();
+               Problema3.Rezolvare();
             }
             if (nrProblema == 4)
             {
-        //        Problema4.Rezolvare();
+                Problema4.Rezolvare();
             }
             if (nrProblema == 5)
             {
-        //        Problema5.Rezolvare();
+                Problema5.Rezolvare();
             }
             if (nrProblema == 6)
             {
-         //       Problema6.Rezolvare();
+                Problema6.Rezolvare();
             }
             if (nrProblema == 7)
             {
-         //       Problema7.Rezolvare();
+                Problema7.Rezolvare();
             }
             if (nrProblema == 8)
             {
-         //       Problema8.Rezolvare();
+                Problema8.Rezolvare();
             }
             if (nrProblema == 9)
             {
-       //         Problema9.Rezolvare();
+                Problema9.Rezolvare();
             }
             if (nrProblema == 10)
             {
-                //Problema10.Rezolvare();
+               Problema10.Rezolvare();
             }
             if (nrProblema == 11)
             {
-              //  Problema11.Rezolvare();
+            Problema11.Rezolvare();
             }
             if (nrProblema == 12)
             {
-                //Problema12.Rezolvare();
+                Problema12.Rezolvare();
             }
             if (nrProblema == 13)
             {
-                //Problema13.Rezolvare();
+                Problema13.Rezolvare();
             }
             if (nrProblema == 14)
             {
-              //  Problema14.Rezolvare();
+                Problema14.Rezolvare();
             }
             if (nrProblema == 15)
             {

@@ -73,5 +73,15 @@ namespace Pool2
             return numar;
 
         }
+        public static int Oglindit(int x)
+        {
+            int og = 0;
+            while (x != 0)
+            {
+                og = og * 10 + x % 10;
+                x = x / 10;
+            }
+            return og;
+        }
     }
 }
