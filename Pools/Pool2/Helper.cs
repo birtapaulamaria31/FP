@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pool1
+namespace Pool2
 {
-    static class Helper
+    class Helper
     {
         public static int ok = 1;
         public static int ReadInt(string n)
@@ -17,7 +17,8 @@ namespace Pool1
             try
             {
                 numar = Int32.Parse(input);
-            } catch (Exception e)
+            }
+            catch (Exception e)
             {
                 Console.WriteLine("E gresit, nu ai introdus un numar intreg.");
                 Console.WriteLine();
@@ -26,7 +27,7 @@ namespace Pool1
                 Program.Intro();
             }
             return numar;
-            
+
         }
 
         public static int ReadPositiveInt(string n)
@@ -71,17 +72,6 @@ namespace Pool1
             }
             return numar;
 
-        }
-
-        public static int Oglindit(int x)
-        {
-            int og = 0;
-            while (x != 0)
-            {
-                og = og * 10 + x % 10;
-                x = x / 10;
-            }
-            return og;
         }
     }
 }
