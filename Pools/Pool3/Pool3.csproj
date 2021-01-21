@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4D9E5410-C9EB-48A6-BF87-F720E78024C6}</ProjectGuid>
+    <ProjectGuid>{9CD49F64-9577-4055-843C-FCF131704129}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Pool2</RootNamespace>
-    <AssemblyName>Pool2</AssemblyName>
+    <RootNamespace>Pool3</RootNamespace>
+    <AssemblyName>Pool3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -51,7 +51,15 @@
     <Compile Include="Problema13.cs" />
     <Compile Include="Problema14.cs" />
     <Compile Include="Problema15.cs" />
+    <Compile Include="Problema16.cs" />
+    <Compile Include="Problema17.cs" />
+    <Compile Include="Problema18.cs" />
+    <Compile Include="Problema19.cs" />
     <Compile Include="Problema2.cs" />
+    <Compile Include="Problema20.cs" />
+    <Compile Include="Problema21.cs" />
+    <Compile Include="Problema28.cs" />
+    <Compile Include="Problema29.cs" />
     <Compile Include="Problema3.cs" />
     <Compile Include="Problema4.cs" />
     <Compile Include="Problema5.cs" />
